@@ -2,4 +2,4 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Bieelogrom&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bieelogrom&langs_count=8)
