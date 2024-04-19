@@ -2,6 +2,7 @@
 
 - Atualmente estudando no [Instituto Proa](https://www.proa.org.br/) 🛥️
 - Formado em Desenvolvimento de Sistemas pela Etec de Guaianazes 🧑🏽‍💻
+- Aprendendo react ⌨️
 
 <div>
   <picture>
