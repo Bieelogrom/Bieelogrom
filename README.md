@@ -32,10 +32,16 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
 </div>
 
-##
+## Redes
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielfav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu Linkedin"></a>
   <a href="https://www.instagram.com/gabriel.fav/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Meu Instagram"></a>
+</div>
+
+## Projetos 
+
+<div>
+  <a href="https://linktr.ee/CircuSustain" target="_blank"><img src="https://github.com/Bieelogrom/Bieelogrom/assets/119885618/cd935efc-a6b3-4a5f-b3a0-b4399d545fac" alt="CircuSustain" height="100" style="border-radius: 25px;"></a>
 </div>
 
