@@ -43,5 +43,6 @@
 
 <div>
   <a href="https://linktr.ee/CircuSustain" target="_blank"><img src="https://github.com/Bieelogrom/Bieelogrom/assets/119885618/cd935efc-a6b3-4a5f-b3a0-b4399d545fac" alt="CircuSustain" height="100" style="border-radius: 25px;"></a>
+    <a href="https://github.com/RaphaLsantos/TCC-SerM-e" target="_blank"><img src="https://github.com/Bieelogrom/Bieelogrom/assets/119885618/39888388-5567-46ea-a56a-a13e5827d5c5" alt="CircuSustain" height="100" style=""></a>
 </div>
 
