@@ -2,7 +2,7 @@
 
 - Atualmente estudando no [Instituto Proa](https://www.proa.org.br/) 🛥️
 - Formado em Desenvolvimento de Sistemas pela [Etec de Guaianazes](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) 🧑🏽‍💻
-- Estudando banco de dados 🎲
+- Estudando Java 🥝
 
 <div>
   <picture>
