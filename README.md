@@ -6,7 +6,8 @@
 
 <p align="left">"Acredite no processo"</p>&nbsp;
 
-#### - 💻 Desenvolvedor Back-End
+#### - 💻 Desenvolvedor Fullstack
+#### - ✅ Estudante de ADS na Fatec Zona Leste
 #### - ✅ Formado em DS na ETEC Guaianazes
 
 &nbsp;
